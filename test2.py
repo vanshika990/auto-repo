@@ -6,3 +6,4 @@ b = 1
 c = a+b
 print(c)
 print("my life my rules")
+print("my")
